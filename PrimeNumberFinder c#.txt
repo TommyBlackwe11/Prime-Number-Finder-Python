@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: Prime number finder, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>Prime number finder -> C:\Users\40230622\source\repos\Prime number finder\Prime number finder\bin\Debug\net6.0\Prime number finder.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 09:12 and took 00.590 seconds ==========
